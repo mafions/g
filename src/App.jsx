@@ -14,7 +14,7 @@ function App() {
   // Uncomment this part if you want it to fetch data from RAPIDAPI
   // const fetchInfo = async () => {
   //   const data = await fetchFixtures();
-  //   setFixtures(data);
+  //   setFixtures(data):
   // };
 
   // useEffect(() => {
